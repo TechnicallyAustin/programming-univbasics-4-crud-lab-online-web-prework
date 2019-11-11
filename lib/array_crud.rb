@@ -40,7 +40,7 @@ end
 
 def retrieve_last_element_from_array(array)
   array1 = ["wow","I","am","really","learning","arrays!"]
-  array1[3]
+  array1[5]
 end
 
 def update_element_from_index(array, index_number, element)
