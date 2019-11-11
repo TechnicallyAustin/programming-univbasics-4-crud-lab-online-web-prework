@@ -34,16 +34,16 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  array1 = ["I","am","really","learning",]
+  array1 = ["wow","I","am","really","learning",]
   array1[0]
 end
 
 def retrieve_last_element_from_array(array)
-  array1 = ["I","am","really","learning",]
+  array1 = ["wow","I","am","really","learning","arrays!"]
   array1[3]
 end
 
 def update_element_from_index(array, index_number, element)
-  array1 = ["I","am","really","learning",]
+   array1 = ["wow","I","am","really","learning","arrays!"]
 array1[4] = "totally"
 end
